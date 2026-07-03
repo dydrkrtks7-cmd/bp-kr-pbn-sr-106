@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dydrkrtks7-cmd.github.io/bp-kr-pbn-sr-106/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://dydrkrtks7-cmd.github.io/bp-kr-pbn-sr-106/posts/compare-002-ayr7r.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://dydrkrtks7-cmd.github.io/bp-kr-pbn-sr-106/posts/field_note-002-11q4rsv.html</loc>
@@ -15,6 +21,12 @@
   <url>
     <loc>https://dydrkrtks7-cmd.github.io/bp-kr-pbn-sr-106/posts/field_note-002-gx1jge.html</loc>
     <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dydrkrtks7-cmd.github.io/bp-kr-pbn-sr-106/posts/qa-001-ayr7r.html</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -32,7 +44,7 @@
   </url>
   <url>
     <loc>https://dydrkrtks7-cmd.github.io/bp-kr-pbn-sr-106/feed.xml</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
